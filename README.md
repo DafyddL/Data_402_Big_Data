@@ -93,16 +93,16 @@ Examples: Office 365, Google Workspace, Salesforce, Adobe
 
 ## Advantages and Disadvantages of cloud
 ### Advantages
-- Cost Efficiency - reduces capital expenditure by eliminating need for physical hardware
-- Scalability - scale resources up and down easily
-- Accessibility - access from anywhere with internet
-- Maintenance - handled by provider
-- Disaster Recovery
-- Performance
-- Innovation - access advanced tools and services
-- Flexibility - quickly experiment and adopt new technologies
-- Collaboration - Allow multiple users to work on the same documents and applications simultaneously
-- Security - major cloud services offer robust security
+- **Cost Efficiency** - reduces capital expenditure by eliminating need for physical hardware
+- **Scalability** - scale resources up and down easily
+- **Accessibility** - access from anywhere with internet
+- **Maintenance** - handled by provider
+- **Disaster Recovery**
+- **Performance**
+- **Innovation** - access advanced tools and services
+- **Flexibility** - quickly experiment and adopt new technologies
+- **Collaboration** - Allow multiple users to work on the same documents and applications simultaneously
+- **Security** - major cloud services offer robust security
 
 ### Disadvantages
 - **Security and Privacy** - Potential security risks associated with data being stored off-site and accessed over the internet.

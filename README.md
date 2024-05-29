@@ -92,6 +92,7 @@ Examples: Office 365, Google Workspace, Salesforce, Adobe
 
 ### Differences in management
 One key thing that differentiates IaaS, PaaS, and SaaS is who manages what i.e. what to you manage, and what does the cloud provider manage:
+
 ![img.png](images/ServiceManagement.png)
 
 ## Advantages and Disadvantages of cloud

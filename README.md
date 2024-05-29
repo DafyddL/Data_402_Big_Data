@@ -88,6 +88,8 @@ Examples: Heroku, Google App Engine, Microsoft Azure App Services
 Software as a Service delivers software applications over the internet on a subscription basis. 
 Users can access these applications via web browsers without installation.
 
+![img.png](images/ServiceManagement.png)
+
 ## Advantages and Disadvantages of cloud
 ### Advantages
 - Cost Efficiency - reduces capital expenditure by eliminating need for physical hardware

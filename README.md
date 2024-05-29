@@ -88,6 +88,7 @@ Examples: Heroku, Google App Engine, Microsoft Azure App Services
 Software as a Service delivers software applications over the internet on a subscription basis. 
 Users can access these applications via web browsers without installation.
 
+Examples: Office 365, Google Workspace, Salesforce, Adobe
 ![img.png](images/ServiceManagement.png)
 
 ## Advantages and Disadvantages of cloud

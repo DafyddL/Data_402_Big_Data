@@ -199,3 +199,53 @@ Azure has a strong presence in enterprise markets, especially among organization
 
 GCP attracts developers, data scientists, and organizations looking for advanced AI/ML, data analytics, and big data solutions, with a focus on innovation and agility.
 ## How is data used/managed in the cloud?
+
+## Case Studies
+
+### **Spotify** - On-Prem to Cloud
+![img.png](images/spotify.png)
+
+Spotify's leadership and engineering team agreed: The company's massive in-house data centers were difficult to provision and maintain, and they didn't directly serve the company's goal of being the "best music service in the world."
+They wanted to free up Spotify's engineers to focus on innovation.
+They started planning for migration to GCP in 2015, hoping to minimise disruption to product development and minimise the cost and complexity of hybrid operation.
+
+#### Key Takeaways
+- **Gaining stakeholder buy-in is crucial.** 
+Spotify was careful to consult its engineers about the vision. 
+Once they could see what their jobs looked like in the future, they were all-in advocates.
+- **Migration preparation shouldn’t be rushed.** 
+Spotify’s dedicated migration team took the time to investigate various cloud strategies and build out the use case showing the benefits of cloud computing to the business. 
+They carefully mapped all dependencies. 
+They also worked with Google to identify and orchestrate the right cloud strategies and solutions.
+- **Focus and dedication pay huge dividends.** 
+Spotify’s dedicated migration team kept everything on track and in focus, making sure everyone involved was aware of experience and lessons already learned. 
+In addition, since engineering teams were fully focused on the migration effort, they could complete it more quickly, reducing the disruption to product development
+
+### **Waze** - Cloud to Multi-cloud
+![img.png](images/waze.png)
+
+Though Waze moved to the cloud very early on, its fast growth quickly led to production issues that caused painful rollbacks, bottlenecks, and other complications. 
+They needed to get faster feedback from users while mitigating or eliminating their production issues.
+
+#### Key Takeaways
+- Some business models may be a better fit for multiple clouds.
+Cloud strategies are not one-size-fits-all. 
+Waze’s stability and reliability depend on avoiding downtime, deploying quick fixes to bugs, and ensuring the resiliency of their production systems. 
+- Running on two clouds at once helps make it all happen.
+- Your engineers don’t have to be cloud experts to deploy effectively. 
+Spinnaker streamlines multi-cloud deployment for Waze such that developers can focus on development, rather than on becoming cloud experts.
+- Deploying software more frequently does not have to mean reduced stability/reliability continuous delivery can get you to market faster, improving quality while reducing risk and cost.
+
+### **Dropbox** - Cloud to Hybrid
+![img.png](images/dropbox.png)
+Dropbox had developed its business by using the cloud — specifically, Amazon S3 (Simple Storage Service) — to house data while keeping metadata housed on-premise. 
+Over time, they feared they’d become overly dependent on Amazon: not only were costs increasing as their storage needs grew, but Amazon was also planning a similar service offering, Amazon WorkDocs. 
+Dropbox took back its storage to help them reduce costs, increase control, and maintain its competitive edge.
+
+- **On-premise infrastructure may still be right for some businesses.** 
+Since Dropbox’s core product relies on fast, reliable data access and storage, they need to ensure consistently high performance at a sustainable cost.
+Going in-house required an enormous investment, but improved performance and reduced costs may serve them better in the long run. 
+Once Dropbox understood that big picture, they had to recalculate the strategic importance of cloud computing to their organization.
+- **Size matters.** As Wired lays out in [its article detailing the move](https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/), cloud businesses are not charities. 
+There’s always going to be a margin, a margin somewhere. 
+If a business is big enough — like Dropbox — it may make sense to take on the difficulties of building a massive in-house network. But tension enormous risk, an enormous risk for businesses that aren’t big enough, or whose growth may stall.

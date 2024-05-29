@@ -135,11 +135,64 @@ Not always, there are many factors specific to each individual organisation.
 - Global reach - global infrastructure of cloud providers allows reaching worldwide
 
 ### Potential Additional Costs
+- Subscription fees
+- Pay-per-use charges
+- Variable pricing - costs can become unpredictable with fluctuating usage patterns
+- Initial migration
+- Training and integration
+- Data transfer fees
+- Switching vendors
+- Compliance costs
+- Security measures
 
 ## Cloud Market Share
 ![img.png](images/CloudMarketShare.png)
-3 biggest, what makes them popular
 
-Which is best? Why?
+The three biggest cloud infrastructure service providers are AWS, Azure, and Google Cloud.
 
+### AWS
+AWS (Amazon Web Services) is popular for these factors:
+1. **Extensive Service Offering:** AWS provides a wide range of services, including computing, storage, databases, machine learning, and analytics, catering to diverse business needs.
+2. **Scalability:** It allows easy scaling of resources up or down based on demand, ensuring cost-efficiency and flexibility.
+3. **Global Infrastructure:** AWS has a global network of data centers, providing low-latency and high-performance services worldwide.
+4. **Reliability:** Designed for high availability and fault tolerance, AWS ensures continuous service delivery even during failures.
+5. **Security and Compliance:** Offers robust security measures and compliance with various industry standards, making it suitable for sensitive data and regulated industries.
+6. **Cost Efficiency:** Pay-as-you-go pricing model reduces upfront costs and operational expenses, with tools for effective cost management.
+7. **Continuous Innovation:** AWS constantly updates its services, staying ahead with the latest technologies.
+8. **Strong Ecosystem:** A large network of partners, third-party vendors, and a supportive user community enhance the AWS experience.
+9. **Developer-Friendly:** Provides tools and SDKs that make it easy for developers to build, deploy, and manage applications.
+10. **Market Leadership:** As an early entrant in the cloud market, AWS has built a trusted and reliable brand used by many high-profile organizations.
+
+### Azure
+1. **Comprehensive Service Offering:** Azure provides a wide range of cloud services, including computing, storage, databases, AI, IoT, and analytics, addressing various business requirements.
+2. **Scalability and Flexibility:** Offers scalability and flexibility to scale resources up or down based on demand, enabling cost optimization and agility.
+3. **Global Presence:** Azure has a global network of data centers, ensuring low-latency and high-performance services across regions worldwide.
+4. **Reliability and Availability:** Designed for high availability and fault tolerance, Azure ensures continuous service delivery and resilience against failures.
+5. **Security and Compliance:** Provides robust security features, identity management, and compliance certifications, meeting stringent security and regulatory requirements.
+6. **Cost Management:** Offers flexible pricing options, cost management tools, and discounts, enabling cost-effective solutions and predictable spending.
+7. **Integration Capabilities:** Azure integrates seamlessly with existing Microsoft technologies and third-party tools, facilitating hybrid cloud and multi-cloud scenarios.
+8. **Continuous Innovation:** Azure invests in innovation, regularly introducing new services, features, and updates to meet evolving business needs and technological advancements.
+9. **Strong Enterprise Support:** Offers enterprise-grade support, documentation, and training resources, ensuring smooth adoption and operation of Azure services.
+10. **Trusted Brand:** Backed by Microsoft's reputation for reliability, Azure is trusted by a wide range of organizations, including enterprises, startups, and government agencies.
+
+### Google Cloud
+1. **Diverse Service Portfolio:** GCP offers a wide range of cloud services, including computing, storage, databases, AI, machine learning, and data analytics, catering to diverse business needs.
+2. **Scalability and Performance:** Provides scalable and high-performance infrastructure, enabling users to handle variable workloads efficiently and achieve optimal performance.
+3. **Global Infrastructure:** GCP operates a global network of data centers, ensuring low-latency and high-availability services across regions worldwide.
+4. **Security and Compliance:** Offers robust security features, encryption, access controls, and compliance certifications, ensuring data protection and regulatory compliance.
+5. **Cost-Effective Solutions:** Provides competitive pricing, sustained usage discounts, and flexible pricing models, helping organizations optimize costs and maximize value.
+6. **Innovation and Cutting-Edge Technology:** GCP emphasizes innovation and leverages Google's expertise in AI, machine learning, and data analytics, offering advanced solutions for modern businesses.
+7. **Openness and Interoperability:** GCP supports open-source technologies and interoperability with other cloud providers, facilitating hybrid and multi-cloud deployments.
+8. **Developer-Friendly Environment:** Offers developer-friendly tools, APIs, and SDKs, enabling easy development, deployment, and management of applications on GCP.
+9. **Reliability and Performance:** Google's robust infrastructure and network deliver high reliability, performance, and low-latency services, meeting demanding enterprise requirements.
+10. **Google Brand Trust:** GCP benefits from Google's reputation for innovation, reliability, and security, earning the trust of enterprises, startups, and developers worldwide.
+
+### Which is best?
+It doesn't really make sense to describe either of these is the best, they all have different strengths that should be evaluated on a case by case basis.
+
+AWS is widely adopted across various industries and business sizes, suitable for startups, enterprises, and government organizations with diverse workloads and requirements.
+
+Azure has a strong presence in enterprise markets, especially among organizations using Microsoft technologies, with a focus on hybrid cloud solutions and digital transformation initiatives.
+
+GCP attracts developers, data scientists, and organizations looking for advanced AI/ML, data analytics, and big data solutions, with a focus on innovation and agility.
 ## How is data used/managed in the cloud?

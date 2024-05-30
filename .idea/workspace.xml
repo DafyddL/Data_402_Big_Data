@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ab4404-8674-45d8-8e6d-286906641cf5" name="Changes" comment="" />
+    <list default="true" id="d0ab4404-8674-45d8-8e6d-286906641cf5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AWS_setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/AWSHome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/EC2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/Instance_runniing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/Keypair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/Selectssh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/Success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/clickinstance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/connect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/copycommand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/launch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/launcinstance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/location1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/location2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/micro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/pastegitbash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/rule_http.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/rule_mongodb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/rule_ssh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/securitygroup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/storage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_images/ubuntu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,17 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dafydd_Work/OneDrive - Sparta Global/Documents/Training/GitHub/Data_402_ssh&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.spelling&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Dafydd_Work/OneDrive - Sparta Global/Documents/Training/GitHub/Data_402_ssh",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dafydd_Work\OneDrive - Sparta Global\Documents\Training\GitHub\Data_402_Big_Data\aws_images" />
       <recent name="C:\Users\Dafydd_Work\OneDrive - Sparta Global\Documents\Training\GitHub\Data_402_Big_Data\github_ssh_images" />
       <recent name="C:\Users\Dafydd_Work\OneDrive - Sparta Global\Documents\Training\GitHub\Data_402_Big_Data\images" />
     </key>

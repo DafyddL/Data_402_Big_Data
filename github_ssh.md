@@ -1,7 +1,7 @@
 # Setting up ssh with github
 We shall do all of this all in one git bash terminal.
 
-## First make a new repository
+## First make a new repository (if you need to)
 Make a new github repository, we will use an example called Data_402_ssh
 
 ## Creating keys
@@ -36,6 +36,10 @@ Give it a name, paste what you copied into the Key box, and ensure you check All
 ![img.png](github_ssh_images/Create_key.png)
 
 Press that big green "Add key" button.
+
+## **Exit ouit of the ssh folder**
+
+Now we exit out of the .ssh folder by simply executing `cd`
 
 ## Authenticating
 

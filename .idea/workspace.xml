@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0ab4404-8674-45d8-8e6d-286906641cf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AWS_setup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/AWSHome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/EC2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/Instance_runniing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/Keypair.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/Selectssh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/Success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/clickinstance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/connect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/copycommand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/launch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/launcinstance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/location1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/location2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/micro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/name.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/pastegitbash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/rule_http.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/rule_mongodb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/rule_ssh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/securitygroup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/storage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_images/ubuntu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aws_mongodb_setup.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Data_402_Big_Data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data_402_Big_Data.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +31,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Dafydd_Work/OneDrive - Sparta Global/Documents/Training/GitHub/Data_402_ssh",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+    "last_opened_file_path": "C:/Users/dafydd/OneDrive - Sparta Global/Documents/Training/GitHub/Data_402_Big_Data",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,7 +45,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
       </set>
     </attachedChunks>
   </component>

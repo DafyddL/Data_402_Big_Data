@@ -5,5 +5,5 @@ echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gp
 sudo apt update
 sudo apt install -y mongodb-org
 sudo systemctl enable --now mongod
-sudo sed -i "s/^bindIP.*/bindIP: 0.0.0.0" /etc/mongod.conf
+sudo sed -i 's/bindIp: 127.0.0.1/bindIp: 0.0.0.0/g' /etc/mongod.conf
 sudo systemctl restart mongod.service

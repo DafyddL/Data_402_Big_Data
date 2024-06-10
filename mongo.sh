@@ -15,7 +15,7 @@ sudo apt -qq update -y
 # Install mongodb
 sudo apt -qq install -y mongodb-org
 
-####Enable mongodb as a service
+#Enable mongodb as a service
 sudo systemctl enable --now mongod
 
 # Open connection to any IP
